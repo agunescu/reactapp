@@ -14,7 +14,7 @@ Checkout this repo, install depdencies, then start the gulp process with the fol
 	> git clone git@github.com:StephenGrider/ReactStarter.git
 	> cd ReactStarter
 	> npm install
-	> gulp
+	> npm start
 ```
 
 ####Not Familiar with Git?#####
@@ -22,6 +22,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 
 ```
 	> npm install
-	> gulp
+	> npm start
 ```
 >>>>>>> Create README.md
