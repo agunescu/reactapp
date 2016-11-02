@@ -20,7 +20,7 @@ class SearchBar extends Component {
 
     /**
      * Event handler for input
-     * @param event
+     * @param term
      */
     onInputChange(term) {
         this.setState({term});
