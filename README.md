@@ -8,4 +8,4 @@ I’ve build this app using only React, I have also worked on a second app, as m
 By building this, I’ve covered numerous React core topics including JSX, components, state. I’ve used ES6 features like
 class, arrow functions, import and export statements, template strings.
 
-![alt tag](/reactapp/blob/master/mockup.png)
+![alt tag](reactapp/mockup.png)
