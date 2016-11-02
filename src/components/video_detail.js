@@ -6,7 +6,6 @@ const VideoDetail = ({video}) => {
     }
 
     const videoId = video.id.videoId;
-    // using backtick to concatenate strings
     const url = `https://www.youtube.com/embed/${videoId}`;
 
     return (
